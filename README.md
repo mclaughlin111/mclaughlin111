@@ -1,4 +1,4 @@
-### Tom McLaughlin
+### Thomas McLaughlin
 tommcl.co.uk/home
 
 <!--
