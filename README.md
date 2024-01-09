@@ -1,7 +1,7 @@
 ### Thomas McLaughlin
 
 
- 🔭 I’m currently working on: my Personal [**React Web Portfolio**] (tommcl.co.uk/home)
+ 🔭 I’m currently working on: my Personal [React Web Portfolio](tommcl.co.uk/home)
  
 🌱 I’m currently learning **Java, SpringBoot API, HTML, CSS, Javascript, React**
 
