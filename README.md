@@ -1,17 +1,25 @@
 ### Thomas McLaughlin
-tommcl.co.uk/home
+
+
+ 🔭 I’m currently working on: my Personal [**React Web Portfolio**] (tommcl.co.uk/home)
+ 
+🌱 I’m currently learning **Java, SpringBoot API, HTML, CSS, Javascript, React**
+
+🤔 looking for help with learning about C++ JUCE Audio Framework
+
+💬 Talk to me about: Front End Development? 
+
+📫 Reach Me at **mail@tommcl.co.uk**
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I grew up in Singapore📍
 
 <!--
 **mclaughlin111/mclaughlin111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+[]()
