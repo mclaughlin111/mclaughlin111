@@ -3,11 +3,11 @@
 
  🔭 I’m currently working on: my Personal [React Web Portfolio](https://tommcl.co.uk/home/)
  
-🌱 I’m currently learning **Java, SpringBoot API, HTML, CSS, Javascript, React**
+🌱 I’m currently learning **Java, Spring Boot, HTML, CSS, Javascript, React**
 
 🤔 looking for help with learning about C++ JUCE Audio Framework
 
-💬 Talk to me about: Front End Development? 
+💬 Talk to me about: User Interface Design, iOS development, FullStack Development? 
 
 📫 Reach Me at **mail@tommcl.co.uk**
 
