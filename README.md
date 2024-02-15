@@ -1,7 +1,7 @@
 ### Thomas McLaughlin
 
 
- 🔭 I’m currently working on: my [React Based Homepage](https://tommcl.co.uk/home/)
+ 🔭 I’m currently working on: my [React Based Homepage](https://tommcl.co.uk/)
  
 🌱 I’m currently learning **Java, Spring Boot, HTML, CSS, Javascript, React**
 
