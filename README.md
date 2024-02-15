@@ -5,7 +5,7 @@
  
 🌱 I’m currently learning **Java, Spring Boot, HTML, CSS, Javascript, React**
 
-🤔 looking for help with learning about C++ JUCE Audio Framework
+🤔 looking for help with learning about C++ JUCE made Plug-Ins, Swift UI Design, FrontEnd React Design 
 
 💬 Talk to me about: User Interface Design, iOS development, FullStack Development? 
 
