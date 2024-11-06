@@ -11,7 +11,7 @@
 
 📫 Reach Me at **mail@tommcl.co.uk**
 
-😄 Pronouns: he/him
+Pronouns: he/him
 
 ⚡ Fun fact: I grew up in Singapore📍
 
