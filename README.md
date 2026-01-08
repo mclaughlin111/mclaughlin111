@@ -1,13 +1,11 @@
-### Thomas McLaughlin
-
-
- 🔭 I’m currently working on: my [React Based Homepage](https://tommcl.co.uk/) and a [Secret Project](https://gitlab.com/tj8380303/gratitudejournal)
+### Tom's Github
+ [Homepage](https://tommcl.co.uk/) 
  
-🌱 I’m currently learning **Java, Spring Boot, HTML, CSS, Javascript, React**
+🌱 I’m currently using **Java, Spring Boot, Typescript, React, Tailwind, NextJS, AWS/Amplify, Docker, NGINX**
 
-🤔 looking for help with learning about C++ JUCE made Plug-Ins, Swift UI Design, FrontEnd React Design 
+🤔 looking for help with learning about C++ JUCE made Plug-Ins, Swift UI Design, Front End Design Patterns
 
-💬 Talk to me about: User Interface Design, iOS development, FullStack Development? 
+💬 Talk to me about: User Interface, FullStack Development 
 
 📫 Reach Me at **mail@tommcl.co.uk**
 
