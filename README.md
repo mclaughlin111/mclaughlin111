@@ -1,13 +1,10 @@
 ### Tom's Github
  [Homepage](https://tommcl.co.uk/) 
- 
-🌱 I’m currently using **Java, Spring Boot, Typescript, React, Tailwind, NextJS, AWS/Amplify, Docker, NGINX**
+ 📫 Reach Me at **mail@tommcl.co.uk**
 
-🤔 looking for help with learning about C++ JUCE made Plug-Ins, Swift UI Design, Front End Design Patterns
+🤔 looking for help with learning about C++ JUCE made Plug-Ins, Swift UI Design, AI Agentic Coding
 
 💬 Talk to me about: User Interface, FullStack Development 
-
-📫 Reach Me at **mail@tommcl.co.uk**
 
 Pronouns: he/him
 
